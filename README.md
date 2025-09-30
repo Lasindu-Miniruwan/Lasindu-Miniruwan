@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasindu-miniruwan&label=Profile%20views&color=0e75b6&style=flat" alt="lasindu-miniruwan" /> </p>
 
-- 🌱 I’m currently learning **Computer Network & Cloud Security**
+- 🌱 I’m currently learning **Computer science**
 
-- 💬 Ask me about **IP Addressing & Subnet Design**
+- 💬 About me  **A Computer Science student passionate about exploring the intersection of technology and space exploration.**
 
 - 📫 How to reach me **lasindu.miniruwan06@gmail.com**
 
